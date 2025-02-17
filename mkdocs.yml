@@ -6,7 +6,7 @@ docs_dir: docs
 theme:
   name: material
   icon:
-    logo: material/language-python
+    logo: material/library-outline
   font:
     text: Roboto
     code: Roboto Mono
